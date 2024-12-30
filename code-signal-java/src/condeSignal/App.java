@@ -1,3 +1,4 @@
+package condeSignal;
 public class App {
     public static void main(String[] args) throws Exception {
         int numberOfStars = 88; //criando e declarando o valor da variável.
